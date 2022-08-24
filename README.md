@@ -13,7 +13,7 @@ Why does this repository exist? To compile a list of front-end developers who ar
 * **‌[Daishi Kato](https://github.com/dai-shi)** - .
 * **‌[Dan Abramov](https://github.com/gaearon)** - .
 * **‌[Donny](https://github.com/kdy1)** - .
-* **‌[Evan You](https://github.com/yyx990803)** - Creator of the JavaScript framework [Vue.js](https://vuejs.org/) and the frontend build tool [Vite](https://vitejs.dev/)
+* **‌[Evan You](https://github.com/yyx990803)** - Creator of the JavaScript framework [Vue.js](https://vuejs.org/) and the frontend build tool [Vite](https://vitejs.dev/).
 * **‌[Fred K. Schott](https://github.com/fredkschott)** - Co-creator of [astro](https://astro.build/). CEO of The Astro Company.
 * **‌[Guy Bedford](https://github.com/guybedford)** - .
 * **‌[Jamie Kyle](https://github.com/jamiebuilds)** - Creator of [react-loadable](https://github.com/jamiebuilds/react-loadable), [unstated](https://github.com/jamiebuilds/unstated) and [babel-handbook](https://github.com/jamiebuilds/babel-handbook).
